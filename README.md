@@ -10,3 +10,4 @@ Cadence evaluation (CAD: CADB_CADC)
 Stride Length evaluation (SL: SLA_SLB)
 
 Please cite Micó-Amigo et al. "Assessing real-world gait with digital technology? Validation, insights and recommendations from the Mobilise-D consortium" if using any of the algorithms.
+Please also check and abide by Licence and README files as descibred in each folder
