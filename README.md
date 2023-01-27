@@ -11,3 +11,5 @@ Stride Length evaluation (SL: SLA_SLB).
 
 Please cite Micó-Amigo et al. "Assessing real-world gait with digital technology? Validation, insights and recommendations from the Mobilise-D consortium" if using any of the algorithms.
 Please also check and abide by Licence and README files as described in each folder
+
+Relative dataset for testing can be found on Zenodo: DOI: https://doi.org/10.5281/zenodo.7547125
